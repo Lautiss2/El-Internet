@@ -52,8 +52,8 @@ section h2 {
 .diagrama,
 .video-container video {
     display: block;
-    max-width: 90%; /* Ajuste para dejar un pequeño margen visual */
-    height: auto;
+    max-width: 500px; /* Ajuste para dejar un pequeño margen visual */
+    height: 500px;
     margin: 20px auto; /* Centrar la imagen/video */
     border-radius: 4px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05); /* Sombra suave para destacar */
@@ -74,4 +74,5 @@ footer {
     text-align: center;
     padding: 20px;
     margin-top: 20px;
+
 }
